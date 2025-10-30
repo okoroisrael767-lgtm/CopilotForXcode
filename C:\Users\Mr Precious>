@@ -1,0 +1,3 @@
+cd "C:\Users\Mr Precious\Desktop\AIbot_Chrome_Extension (1)"
+npm install
+npm run build
